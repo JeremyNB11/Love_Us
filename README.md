@@ -1,1 +1,1 @@
-# Love_Us
+Recording the process of learning Python
